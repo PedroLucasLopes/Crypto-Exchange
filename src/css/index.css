@@ -8,6 +8,10 @@ body {
     font-family: Poppins, sans-serif;
 }
 
+p, li, a {
+    color: rgb(240, 248, 255);
+}
+
 #home, footer {
     height: fit-content;
     width: auto;
@@ -22,8 +26,15 @@ body::-webkit-scrollbar {
     position: relative; 
 }
 
-p, li, a {
-    color: rgb(240, 248, 255);
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+  transition-delay: 2s;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 
 /* 1024 -1 so it doesnt show when it hits 1024px */

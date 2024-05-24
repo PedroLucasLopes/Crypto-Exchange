@@ -39,6 +39,7 @@
           </div>
         </Slide>
         <template #addons>
+          <div class="sm:hidden"></div>
           <Navigation />
         </template>
       </Carousel>
