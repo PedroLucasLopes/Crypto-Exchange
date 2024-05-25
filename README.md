@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/tK5Dcnr/crypto-exhange-logo.png)
+<img src="https://i.ibb.co/tK5Dcnr/crypto-exhange-logo.png" alt="Logo Image of Crypto Exchange" align="center" />
 
 # 🪙 Crypto Exchange
 
