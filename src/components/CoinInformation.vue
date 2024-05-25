@@ -1,7 +1,7 @@
 <template>
   <div class="w-full xl:w-full px-3 pt-4">
     <div class="flex flex-col sm:flex-row w-full justify-center items-center">
-      <p class="text-xl font-semibold mb-2 sm:mb-0">💎 Coins Information</p>
+      <p class="text-xl font-semibold mb-2 sm:mb-4">💎 Coins Information</p>
       <div class="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
         <VaSelect
           v-model="value"

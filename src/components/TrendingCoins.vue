@@ -1,6 +1,10 @@
 <template>
   <div class="xl:w-1/3 px-3 mb-12 mr-3 ml-3 pt-4">
-    <p class="text-xl font-semibold mb-2">🔥Top 15 Trending Coins List</p>
+    <p
+      class="text-xl font-semibold mb-2 text-center md:text-start xl:text-start"
+    >
+      🔥Top 15 Trending Coins List
+    </p>
     <Transition>
       <div
         class="w-full h-auto bg-slate-900 border rounded-lg p-4 mb-8 xl:mb-0 shadow-[0_20px_50px_rgba(227,_230,_228,_0.1)]"
@@ -107,12 +111,17 @@ export default defineComponent({
   },
   data: () => ({
     settings: {
-      itemsToShow: 3,
+      itemsToShow: 1,
       snapAlign: "center",
     },
     breakpoints: {
-      700: {
+      640: {
         itemsToShow: 1,
+        snapAlign: "start",
+      },
+      700: {
+        itemsToShow: 2,
+        snapAlign: "start",
       },
       1024: {
         itemsToShow: 2,
