@@ -128,7 +128,7 @@ The project was deployed on the Netlify platform and can be accessed here: [Coin
 - [Pedro Lucas Lopes Paraguai](https://www.github.com/PedroLucasLopes)
   I have always been determined about what I want as a developer, curious to learn new technologies, and deepen my knowledge in those I work with. Five years ago, I entered the market aiming to showcase my potential by bringing innovations to both Front-end and Back-end realms within the web.
 
-## Tags
+## 🏷️ Tags
 
 ![Javascript](https://img.shields.io/badge/-Javascript-grey?logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-grey?logo=typescript)
