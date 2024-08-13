@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.ibb.co/tK5Dcnr/crypto-exhange-logo.png" alt="Logo Image of Crypto Exchange" />
-</p>
-
 # 🪙 Crypto Exchange
 
 This platform is the proposed MVP for a business test where the objective is to provide detailed information about the cryptocurrency market. It features an initially simple interface that clearly displays prices, trends, and real-time market value updates.
